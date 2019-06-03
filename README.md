@@ -11,3 +11,4 @@ This ionic app has all the feature of e-commerce shop needs to sell their item o
 ✔ integrate with a Node.js RESTful service t
 ✔ Observables and RxJS 
 
+
